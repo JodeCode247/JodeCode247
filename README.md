@@ -1,7 +1,7 @@
 # Hi there 👋  
 
 I'm **JodeCode247**  
-A **Full Stack Django & Python Developer** passionate about building scalable and high-quality applications.  
+A **Full Stack Software Developer** passionate about building scalable and high-quality applications.  
 
 📫 Reach me at: **[jhntech10@gmail.com](mailto:jhntech10@gmail.com)**  
 
